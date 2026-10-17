@@ -1,0 +1,2 @@
+# Jupyter Book 2 uses MyST and requires Node.js; see docs/publishing.md.
+jupyter-book>=2.0,<3

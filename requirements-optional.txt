@@ -1,0 +1,2 @@
+# Future numerical chapters, not needed for the coordinate geometry example.
+scipy>=1.14,<2

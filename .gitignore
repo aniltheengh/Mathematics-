@@ -218,3 +218,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal Mathematics Encyclopedia exclusions
+# Python environments, bytecode and notebook scratch files
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Local verification tools and caches
+.tools/
+.cache/
+# Generated publication files (source figures remain tracked)
+_build/
+.myst/
+node_modules/
+# Editor and operating-system noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+# Credentials and private scratch notes
+.env
+.env.*
+!.env.example
+private/
+*.log

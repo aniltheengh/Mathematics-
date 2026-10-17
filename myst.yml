@@ -1,0 +1,42 @@
+version: 1
+project:
+  title: Personal Mathematics Encyclopedia
+  description: A growing mathematics reference with proofs, examples, and practice.
+  bibliography:
+    - references/references.bib
+  toc:
+    - file: README.md
+    - file: INDEX.md
+    - file: CONTENTS.md
+    - title: Geometry
+      children:
+        - file: subjects/geometry/overview.md
+        - file: subjects/geometry/coordinate-geometry/cartesian-plane.md
+        - file: exercises/geometry/coordinate-geometry.md
+        - file: solutions/geometry/coordinate-geometry.md
+        - file: notebooks/coordinate-geometry.ipynb
+    - title: Reference tools
+      children:
+        - file: indexes/formulas.md
+        - file: indexes/notation.md
+        - file: indexes/proofs.md
+        - file: indexes/practice.md
+        - file: references/README.md
+    - title: Learning and revision
+      children:
+        - file: learning/learning-path.md
+        - file: learning/revision-guide.md
+    - title: Authoring and maintenance
+      children:
+        - file: docs/architecture.md
+        - file: docs/documentation-standard.md
+        - file: templates/topic-template.md
+        - file: templates/formula-template.md
+        - file: CONTRIBUTING.md
+        - file: docs/git-and-github.md
+        - file: docs/publishing.md
+        - file: docs/verification.md
+        - file: docs/reuse-policy.md
+site:
+  template: book-theme
+  title: Personal Mathematics Encyclopedia

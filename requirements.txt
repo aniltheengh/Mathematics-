@@ -1,0 +1,10 @@
+# Optional computation tools; reading the Markdown requires no installation.
+# Python >=3.11. Bounds permit patch/minor updates; see docs/verification.md.
+numpy>=2.0,<3
+sympy>=1.13,<2
+matplotlib>=3.9,<4
+jupyterlab>=4.2,<5
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8
+PyYAML>=6.0,<7

@@ -1,0 +1,33 @@
+name: Verify mathematics encyclopedia
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install computation and book tools
+        run: python -m pip install -r requirements.txt -r requirements-book.txt
+      - name: Check exact mathematics
+        run: python scripts/verify_mathematics.py
+      - name: Regenerate chapter figures
+        run: python scripts/plot_coordinate_geometry.py
+      - name: Execute the notebook in a fresh kernel
+        run: python scripts/execute_notebook.py
+      - name: Check navigation and content structure
+        run: python scripts/check_repository.py
+      - name: Build the book with strict checks
+        run: jupyter-book build --html --strict
