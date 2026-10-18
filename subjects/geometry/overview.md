@@ -18,15 +18,22 @@ Coordinate geometry is a method within analytic geometry, not a separate univers
 of formulas. Coordinates describe geometric objects; changing coordinates changes
 their descriptions but need not change the objects.
 
-## Available chapter
+## Available chapters
 
 [Cartesian plane: points, lines, and circles](coordinate-geometry/cartesian-plane.md)
 develops an orthonormal Cartesian model of a flat plane. Read it before moving
 to conics, three-dimensional coordinates, and transformations.
 
-## Connections to develop later
+- [Euclidean geometry](euclidean-geometry.md): triangles, circles, measurement, solids and geometric proofs.
+- [Conic sections](coordinate-geometry/conic-sections.md): ellipse, parabola, hyperbola, focus/directrix, tangents, rotations and degeneracies.
+- [Coordinate systems and transformations](coordinate-geometry/coordinate-systems-and-transformations.md): polar and spatial coordinates, quadrics, affine/projective geometry and curved settings.
+
+## Connections
 
 Linear algebra supplies vectors and transformations; calculus supplies tangents
 and curvature; abstract algebra describes symmetries; topology and differential
-geometry generalize the setting. These are planned subjects in the
-[mathematics map](../../CONTENTS.md), not yet separate written chapters.
+geometry generalize the setting. Read [linear algebra](../linear-algebra/linear-algebra.md),
+[calculus](../calculus/single-variable-calculus.md),
+[abstract algebra](../abstract-algebra/abstract-algebra.md),
+[topology](../topology/topology.md), and
+[differential geometry](../differential-geometry/geometry-and-tensors.md).

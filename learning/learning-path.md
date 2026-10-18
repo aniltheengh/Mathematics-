@@ -30,6 +30,7 @@ then solve [CG-01](../exercises/geometry/coordinate-geometry.md#cg-01-distance-a
 with the answer closed. If easy, try the vertical-line and circle questions.
 Use the [progress tracker](progress.csv) to record what happened.
 
-Only coordinate geometry is written in this initial edition. The other stages
-describe planned growth; use the [external reading guide](../references/README.md)
-for supporting material until those chapters exist.
+All stages now have written reference chapters in the [master navigation](../INDEX.md).
+Follow the prerequisites within each chapter; the advanced chapters give a
+compact introduction with explicitly stated theorem and proof scope. The
+[reading guide](../references/README.md) provides deeper primary resources.

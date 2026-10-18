@@ -1,10 +1,11 @@
-# Mathematics subject map and proposed table of contents
+# Mathematics subject map and table of contents
 
 [Home](README.md) · [Available content](INDEX.md)
 
-This is a broad, extensible coverage plan from elementary to advanced university
-mathematics, not a claim to list every research specialty. **Available** means
-written material exists and is linked. All other entries are **planned**.
+This is the subject classification for a written compact reference from elementary
+through advanced university mathematics. Every numbered branch has a linked chapter.
+The chapters state their own proof scope; a chapter is not an exhaustive specialist
+textbook for every research topic. See [coverage](COVERAGE.md) for the edition's depth.
 The numbered groups are stable navigation identifiers, not prerequisites or
 course numbers. No empty topic files are created for the plan.
 
@@ -14,6 +15,8 @@ not an official reproduction of its research taxonomy. Subjects overlap; a
 canonical explanation has one home and other subjects link to it.
 
 ## 01 Foundations, logic, and mathematical language
+
+**Read:** [Logic, sets, and proof](subjects/foundations/logic-and-proof.md)
 
 - Statements, predicates, quantifiers, implication, equivalence, and truth tables
 - Sets, membership, subsets, power sets, operations, Cartesian products
@@ -25,6 +28,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 02 Arithmetic and number systems
 
+**Read:** [Arithmetic and number systems](subjects/numbers/arithmetic-and-number-systems.md)
+
 - Place value, arithmetic operations, order of operations, estimation
 - Integers, fractions, decimals, percentages, ratios, proportions
 - Divisibility, factors, primes, greatest common divisors, least common multiples
@@ -35,6 +40,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 03 Elementary and intermediate algebra
 
+**Read:** [Elementary and intermediate algebra](subjects/algebra/elementary-algebra.md)
+
 - Expressions, identities, factoring, polynomial arithmetic, rational expressions
 - Linear equations and inequalities; simultaneous equations
 - Quadratic equations, discriminants, completing the square
@@ -44,6 +51,8 @@ canonical explanation has one home and other subjects link to it.
 - Binomial theorem; algebraic inequalities and inequalities with absolute values
 
 ## 04 Geometry
+
+**Read:** [Euclidean geometry: shape, measurement, and proof](subjects/geometry/euclidean-geometry.md) · [Cartesian plane: points, lines, and circles](subjects/geometry/coordinate-geometry/cartesian-plane.md) · [Conic sections: circles, ellipses, parabolas, and hyperbolas](subjects/geometry/coordinate-geometry/conic-sections.md) · [Coordinate systems, transformations, and quadrics](subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md)
 
 - Euclidean foundations: incidence, congruence, similarity, constructions
 - Triangles, polygons, circles, area, volume, and solid geometry
@@ -56,6 +65,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 05 Trigonometry
 
+**Read:** [Trigonometry and harmonic motion](subjects/trigonometry/trigonometry.md)
+
 - Angles, degrees, radians, arc length, sectors
 - Right-triangle ratios; unit circle and trigonometric functions
 - Identities, addition formulas, multiple angles, inverse functions
@@ -64,6 +75,8 @@ canonical explanation has one home and other subjects link to it.
 - Harmonic motion, amplitude, phase, and phasors (links to complex numbers)
 
 ## 06 Functions and mathematical analysis foundations
+
+**Read:** [Functions, limits, continuity, and series](subjects/analysis/functions-limits-and-series.md)
 
 - Domain, codomain, range, graphs, composition, inverses
 - Elementary functions and transformations of graphs
@@ -74,6 +87,8 @@ canonical explanation has one home and other subjects link to it.
 - Uniform convergence and exchange of limiting operations (advanced)
 
 ## 07 Linear algebra and multilinear algebra
+
+**Read:** [Linear algebra and multilinear algebra](subjects/linear-algebra/linear-algebra.md)
 
 - Vectors, linear combinations, span, independence, bases, dimension
 - Matrices, elimination, rank, determinants, linear systems
@@ -86,6 +101,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 08 Differential and integral calculus
 
+**Read:** [Differential and integral calculus](subjects/calculus/single-variable-calculus.md)
+
 - Derivative as a limit; differentiation rules; implicit differentiation
 - Mean value theorem; Taylor theorem and remainder
 - Extrema, curve sketching, related rates, sensitivity
@@ -95,6 +112,8 @@ canonical explanation has one home and other subjects link to it.
 - Parametric and polar differentiation and integration
 
 ## 09 Multivariable and vector calculus
+
+**Read:** [Multivariable and vector calculus](subjects/calculus/multivariable-and-vector-calculus.md)
 
 - Functions of several variables, surfaces, limits, continuity
 - Partial and directional derivatives, gradients, Jacobians, Hessians
@@ -106,6 +125,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 10 Ordinary differential equations and dynamical systems
 
+**Read:** [Ordinary differential equations and dynamical systems](subjects/differential-equations/ordinary-differential-equations.md)
+
 - Modeling, initial and boundary conditions; existence and uniqueness
 - First-order separable, linear, exact, and autonomous equations
 - Linear higher-order equations, forcing, resonance
@@ -115,6 +136,8 @@ canonical explanation has one home and other subjects link to it.
 - Boundary value problems and Sturm-Liouville theory
 
 ## 11 Partial differential equations
+
+**Read:** [Partial differential equations](subjects/differential-equations/partial-differential-equations.md)
 
 - Classification, well-posedness, initial and boundary data
 - Transport, wave, heat, and Laplace equations
@@ -126,6 +149,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 12 Discrete mathematics and combinatorics
 
+**Read:** [Discrete mathematics and combinatorics](subjects/discrete/discrete-mathematics.md)
+
 - Counting, permutations, combinations, inclusion-exclusion
 - Pigeonhole principle, recurrences, generating functions
 - Graphs, trees, paths, connectivity, graph coloring
@@ -135,6 +160,8 @@ canonical explanation has one home and other subjects link to it.
 - Design theory and combinatorial probability
 
 ## 13 Number theory
+
+**Read:** [Number theory: divisibility, congruences, and primes](subjects/number-theory/number-theory.md)
 
 - Euclidean algorithm, Bezout identity, congruences, modular arithmetic
 - Diophantine equations, Chinese remainder theorem
@@ -146,6 +173,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 14 Abstract algebra
 
+**Read:** [Abstract algebra: groups, rings, fields, and structural methods](subjects/abstract-algebra/abstract-algebra.md)
+
 - Groups, subgroups, cyclic and permutation groups
 - Homomorphisms, quotient groups, group actions
 - Rings, ideals, quotient rings, polynomial rings
@@ -155,6 +184,8 @@ canonical explanation has one home and other subjects link to it.
 - Algebraic geometry: polynomial varieties and coordinate rings (advanced)
 
 ## 15 Real analysis and measure theory
+
+**Read:** [Real analysis and measure theory](subjects/analysis/real-analysis-and-measure.md)
 
 - Completeness of the real numbers; suprema and infima
 - Rigorous sequences, series, limits, and continuity
@@ -166,6 +197,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 16 Complex analysis
 
+**Read:** [Complex analysis](subjects/complex-analysis/complex-analysis.md)
+
 - Complex arithmetic, geometry, polar form, roots
 - Analytic functions, Cauchy-Riemann equations
 - Contour integration, Cauchy theorem and integral formula
@@ -174,6 +207,8 @@ canonical explanation has one home and other subjects link to it.
 - Analytic continuation, branches, Riemann surfaces (advanced)
 
 ## 17 Probability and stochastic processes
+
+**Read:** [Probability and stochastic processes](subjects/probability/probability-and-stochastic-processes.md)
 
 - Sample spaces, events, axioms, conditional probability, independence
 - Random variables, distributions, density and mass functions
@@ -185,6 +220,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 18 Statistics and data analysis
 
+**Read:** [Statistics, inference and data analysis](subjects/statistics/statistics.md)
+
 - Descriptive statistics, visualization, sampling, study design
 - Estimation, likelihood, bias, consistency, confidence intervals
 - Hypothesis tests, effect sizes, multiplicity, power
@@ -194,6 +231,8 @@ canonical explanation has one home and other subjects link to it.
 - Experimental design, uncertainty, reliability and survival analysis
 
 ## 19 Numerical analysis and scientific computation
+
+**Read:** [Numerical analysis and scientific computation](subjects/numerical-analysis/numerical-analysis.md)
 
 - Floating-point arithmetic, conditioning, stability, error analysis
 - Root finding, interpolation, approximation, numerical differentiation
@@ -205,6 +244,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 20 Optimization, operations research, and control mathematics
 
+**Read:** [Optimization, operations research and control](subjects/optimization/optimization-and-control.md)
+
 - Convex sets and functions; unconstrained optimization
 - Constrained extrema, Lagrange multipliers, KKT conditions, duality
 - Linear, quadratic, integer, nonlinear, and stochastic programming
@@ -215,6 +256,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 21 Topology
 
+**Read:** [Topology: continuity, shape and holes](subjects/topology/topology.md)
+
 - Topological spaces, bases, continuity, homeomorphisms
 - Subspaces, products, quotients, separation axioms
 - Compactness, connectedness, covering spaces
@@ -223,6 +266,8 @@ canonical explanation has one home and other subjects link to it.
 - Manifolds and algebraic topology (advanced)
 
 ## 22 Differential geometry and tensor mathematics
+
+**Read:** [Differential geometry and tensor mathematics](subjects/differential-geometry/geometry-and-tensors.md)
 
 - Curves, curvature, torsion; surfaces and fundamental forms
 - Smooth manifolds, charts, tangent and cotangent spaces
@@ -234,6 +279,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 23 Functional analysis and operator theory
 
+**Read:** [Functional analysis and operator theory](subjects/functional-analysis/functional-analysis.md)
+
 - Normed and Banach spaces; bounded linear operators
 - Hilbert spaces, projections, orthonormal bases
 - Duality, Hahn-Banach theorem, weak convergence
@@ -243,6 +290,8 @@ canonical explanation has one home and other subjects link to it.
 
 ## 24 Harmonic analysis, transforms, and special functions
 
+**Read:** [Harmonic analysis, transforms, and special functions](subjects/harmonic-analysis/transforms-and-special-functions.md)
+
 - Fourier series and Fourier transforms; convergence and distributions
 - Laplace and Z transforms; convolution and transfer functions
 - Orthogonal polynomials; Bessel, Legendre, gamma, and beta functions
@@ -250,6 +299,8 @@ canonical explanation has one home and other subjects link to it.
 - Asymptotic analysis and perturbation methods
 
 ## 25 Applied mathematics and mathematical modeling
+
+**Read:** [Applied mathematics and mathematical modeling](subjects/applied-mathematics/modeling.md)
 
 - Conservation laws, nondimensionalization, scaling, similarity
 - Continuum mechanics, fluid and solid mathematical models

@@ -5,6 +5,43 @@
 This file records checks run on 2026-10-17 (Asia/Tokyo) for the initial edition
 and their limits. Source presence alone does not establish successful execution.
 
+## Expanded edition on 2026-10-18
+
+The repository now contains **28 mathematics chapters across all 25 subject
+branches**, approximately **46,500 chapter words**, **140 enumerated practice
+problems with explained answers**, and **31 PNG/SVG figure pairs**. There are
+53 Markdown/notebook publication pages and 28 personal progress rows. Personal
+mastery remains unassessed; the new rows contain no invented study dates.
+
+Observed expansion checks:
+
+- Repository validation passed for all 53 pages and 618 local links.
+- The coverage audit passed for 28 substantive chapters, standard topic anatomy,
+  unique IDs, explained practice, paired display equations, and figure companions.
+- Five mathematical/graph suites passed **320 checks in total**: 37 original
+  coordinate checks, 36 added geometry checks, 65 foundations checks, 131 analysis
+  checks, and 51 advanced checks. The analysis count includes sampling, figure,
+  and structure checks, so the total is not described as 320 formal proofs.
+- All new plotting scripts executed. Figures were inspected against their
+  equations, axis conventions, parameters, and labels. The dedicated conic suite
+  includes focal geometry, reflection, asymptotes, a rotated ellipse, and
+  degenerate real loci.
+- A strict Jupyter Book build succeeded for **all 53 HTML pages** in temporary
+  local storage, and the output was copied to `_build/html`.
+- The generated HTML contained 4,182 rendered KaTeX instances and no
+  `katex-error` elements in the inspected build.
+- Independent subject reviews checked worked answers and assumptions. Corrections
+  included finite-rank boundedness, periodic domains, Pascal boundary conventions,
+  a zero-coefficient Diophantine case, theorem hypotheses, and consistent complex
+  inner products. Deep theorems cited without full proofs remain explicitly labeled.
+
+The scripts are reproducible checks of encoded mathematics and content structure,
+not a formal certification of all prose. The book's [coverage record](../COVERAGE.md)
+states its compact-reference depth. GitHub Actions repeats the suites and strict
+build on each push; consult the repository's Actions page for the current remote run.
+
+The sections below preserve the original setup record from 2026-10-17.
+
 ## Scope
 
 The initial edition has one coordinate geometry chapter, twelve exercises with

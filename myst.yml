@@ -1,42 +1,120 @@
 version: 1
 project:
   title: Personal Mathematics Encyclopedia
-  description: A growing mathematics reference with proofs, examples, and practice.
+  description: Mathematics reference across 25 subject branches, with exact equations, proofs, examples,
+    exercises, and reproducible graphs.
   bibliography:
-    - references/references.bib
+  - references/references.bib
   toc:
-    - file: README.md
-    - file: INDEX.md
-    - file: CONTENTS.md
-    - title: Geometry
-      children:
-        - file: subjects/geometry/overview.md
-        - file: subjects/geometry/coordinate-geometry/cartesian-plane.md
-        - file: exercises/geometry/coordinate-geometry.md
-        - file: solutions/geometry/coordinate-geometry.md
-        - file: notebooks/coordinate-geometry.ipynb
-    - title: Reference tools
-      children:
-        - file: indexes/formulas.md
-        - file: indexes/notation.md
-        - file: indexes/proofs.md
-        - file: indexes/practice.md
-        - file: references/README.md
-    - title: Learning and revision
-      children:
-        - file: learning/learning-path.md
-        - file: learning/revision-guide.md
-    - title: Authoring and maintenance
-      children:
-        - file: docs/architecture.md
-        - file: docs/documentation-standard.md
-        - file: templates/topic-template.md
-        - file: templates/formula-template.md
-        - file: CONTRIBUTING.md
-        - file: docs/git-and-github.md
-        - file: docs/publishing.md
-        - file: docs/verification.md
-        - file: docs/reuse-policy.md
+  - file: README.md
+  - file: INDEX.md
+  - file: CONTENTS.md
+  - file: COVERAGE.md
+  - title: 01 Foundations and logic
+    children:
+    - file: subjects/foundations/logic-and-proof.md
+  - title: 02 Arithmetic and number systems
+    children:
+    - file: subjects/numbers/arithmetic-and-number-systems.md
+  - title: 03 Elementary algebra
+    children:
+    - file: subjects/algebra/elementary-algebra.md
+  - title: 04 Geometry
+    children:
+    - file: subjects/geometry/overview.md
+    - file: subjects/geometry/euclidean-geometry.md
+    - file: subjects/geometry/coordinate-geometry/cartesian-plane.md
+    - file: subjects/geometry/coordinate-geometry/conic-sections.md
+    - file: subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md
+    - file: exercises/geometry/coordinate-geometry.md
+    - file: solutions/geometry/coordinate-geometry.md
+    - file: notebooks/coordinate-geometry.ipynb
+  - title: 05 Trigonometry
+    children:
+    - file: subjects/trigonometry/trigonometry.md
+  - title: 06 Functions, limits, and series
+    children:
+    - file: subjects/analysis/functions-limits-and-series.md
+  - title: 07 Linear and multilinear algebra
+    children:
+    - file: subjects/linear-algebra/linear-algebra.md
+  - title: 08 Single-variable calculus
+    children:
+    - file: subjects/calculus/single-variable-calculus.md
+  - title: 09 Multivariable and vector calculus
+    children:
+    - file: subjects/calculus/multivariable-and-vector-calculus.md
+  - title: 10 Ordinary differential equations
+    children:
+    - file: subjects/differential-equations/ordinary-differential-equations.md
+  - title: 11 Partial differential equations
+    children:
+    - file: subjects/differential-equations/partial-differential-equations.md
+  - title: 12 Discrete mathematics
+    children:
+    - file: subjects/discrete/discrete-mathematics.md
+  - title: 13 Number theory
+    children:
+    - file: subjects/number-theory/number-theory.md
+  - title: 14 Abstract algebra
+    children:
+    - file: subjects/abstract-algebra/abstract-algebra.md
+  - title: 15 Real analysis and measure
+    children:
+    - file: subjects/analysis/real-analysis-and-measure.md
+  - title: 16 Complex analysis
+    children:
+    - file: subjects/complex-analysis/complex-analysis.md
+  - title: 17 Probability and stochastic processes
+    children:
+    - file: subjects/probability/probability-and-stochastic-processes.md
+  - title: 18 Statistics
+    children:
+    - file: subjects/statistics/statistics.md
+  - title: 19 Numerical analysis
+    children:
+    - file: subjects/numerical-analysis/numerical-analysis.md
+  - title: 20 Optimization and control
+    children:
+    - file: subjects/optimization/optimization-and-control.md
+  - title: 21 Topology
+    children:
+    - file: subjects/topology/topology.md
+  - title: 22 Differential geometry and tensors
+    children:
+    - file: subjects/differential-geometry/geometry-and-tensors.md
+  - title: 23 Functional analysis
+    children:
+    - file: subjects/functional-analysis/functional-analysis.md
+  - title: 24 Transforms and special functions
+    children:
+    - file: subjects/harmonic-analysis/transforms-and-special-functions.md
+  - title: 25 Applied mathematics and modeling
+    children:
+    - file: subjects/applied-mathematics/modeling.md
+  - title: Reference tools
+    children:
+    - file: indexes/formulas.md
+    - file: indexes/notation.md
+    - file: indexes/proofs.md
+    - file: indexes/practice.md
+    - file: indexes/figures.md
+    - file: references/README.md
+  - title: Learning and revision
+    children:
+    - file: learning/learning-path.md
+    - file: learning/revision-guide.md
+  - title: Authoring and maintenance
+    children:
+    - file: docs/architecture.md
+    - file: docs/documentation-standard.md
+    - file: templates/topic-template.md
+    - file: templates/formula-template.md
+    - file: CONTRIBUTING.md
+    - file: docs/git-and-github.md
+    - file: docs/publishing.md
+    - file: docs/verification.md
+    - file: docs/reuse-policy.md
 site:
   template: book-theme
   title: Personal Mathematics Encyclopedia

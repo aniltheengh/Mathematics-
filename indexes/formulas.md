@@ -32,3 +32,49 @@ coefficients may be rescaled together without changing geometric distance.
 
 **Related result:** the [perpendicular foot](../subjects/geometry/coordinate-geometry/cartesian-plane.md#perpendicular-distance-to-a-line)
 is useful for checking whether the nearest line point lies on a finite segment.
+
+## Conic sections
+
+For centered coordinates $X=x-h$, $Y=y-k$, positive semiaxes $a,b$, and signed nonzero focal parameter $p$, the exact standard forms are:
+
+| Curve | Standard equation | Conditions and derivation |
+| --- | --- | --- |
+| Ellipse | $X^2/a^2+Y^2/b^2=1$ | $a\ge b>0$, $c^2=a^2-b^2$, foci on the major axis; [chapter](../subjects/geometry/coordinate-geometry/conic-sections.md) |
+| Hyperbola | $X^2/a^2-Y^2/b^2=1$ | $a,b>0$, $c^2=a^2+b^2$, transverse axis horizontal; [chapter](../subjects/geometry/coordinate-geometry/conic-sections.md) |
+| Parabola | $Y^2=4pX$ | $p\ne0$, focus $(h+p,k)$, directrix $x=h-p$; [chapter](../subjects/geometry/coordinate-geometry/conic-sections.md) |
+| General quadratic | $Ax^2+Bxy+Cy^2+Dx+Ey+F=0$ | $A,B,C$ not all zero; $B^2-4AC$ indicates family, not real existence; [chapter](../subjects/geometry/coordinate-geometry/conic-sections.md) |
+
+## Formula directory across the book
+
+Each chapter defines every symbol and supplies the applicable domain, exceptional cases, and derivations. These links are the canonical reference for the full formulas, not an unconditional formula sheet.
+
+| Subject | Formula reference |
+| --- | --- |
+| Foundations and logic | [Logic, sets, and proof](../subjects/foundations/logic-and-proof.md#important-formulas-and-identities) |
+| Arithmetic and number systems | [Arithmetic and number systems](../subjects/numbers/arithmetic-and-number-systems.md#important-formulas-and-identities) |
+| Elementary algebra | [Elementary and intermediate algebra](../subjects/algebra/elementary-algebra.md#important-formulas-and-identities) |
+| Geometry | [Euclidean geometry: shape, measurement, and proof](../subjects/geometry/euclidean-geometry.md#important-formulas-and-identities) |
+| Geometry | [Cartesian plane: points, lines, and circles](../subjects/geometry/coordinate-geometry/cartesian-plane.md#formulas-and-conditions) |
+| Geometry | [Conic sections: circles, ellipses, parabolas, and hyperbolas](../subjects/geometry/coordinate-geometry/conic-sections.md#important-formulas-and-identities) |
+| Geometry | [Coordinate systems, transformations, and quadrics](../subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md#important-formulas-and-identities) |
+| Trigonometry | [Trigonometry and harmonic motion](../subjects/trigonometry/trigonometry.md#important-formulas-and-identities) |
+| Functions, limits, and series | [Functions, limits, continuity, and series](../subjects/analysis/functions-limits-and-series.md#important-formulas-and-identities) |
+| Linear and multilinear algebra | [Linear algebra and multilinear algebra](../subjects/linear-algebra/linear-algebra.md#important-formulas-and-identities) |
+| Single-variable calculus | [Differential and integral calculus](../subjects/calculus/single-variable-calculus.md#important-formulas-and-identities) |
+| Multivariable and vector calculus | [Multivariable and vector calculus](../subjects/calculus/multivariable-and-vector-calculus.md#important-formulas-and-identities) |
+| Ordinary differential equations | [Ordinary differential equations and dynamical systems](../subjects/differential-equations/ordinary-differential-equations.md#important-formulas-and-identities) |
+| Partial differential equations | [Partial differential equations](../subjects/differential-equations/partial-differential-equations.md#important-formulas-and-identities) |
+| Discrete mathematics | [Discrete mathematics and combinatorics](../subjects/discrete/discrete-mathematics.md#important-formulas-and-identities) |
+| Number theory | [Number theory: divisibility, congruences, and primes](../subjects/number-theory/number-theory.md#important-formulas-and-identities) |
+| Abstract algebra | [Abstract algebra: groups, rings, fields, and structural methods](../subjects/abstract-algebra/abstract-algebra.md#important-formulas-and-identities) |
+| Real analysis and measure | [Real analysis and measure theory](../subjects/analysis/real-analysis-and-measure.md#important-formulas-and-identities) |
+| Complex analysis | [Complex analysis](../subjects/complex-analysis/complex-analysis.md#important-formulas-and-identities) |
+| Probability and stochastic processes | [Probability and stochastic processes](../subjects/probability/probability-and-stochastic-processes.md#important-formulas-and-identities) |
+| Statistics | [Statistics, inference and data analysis](../subjects/statistics/statistics.md#important-formulas-and-identities) |
+| Numerical analysis | [Numerical analysis and scientific computation](../subjects/numerical-analysis/numerical-analysis.md#important-formulas-and-identities) |
+| Optimization and control | [Optimization, operations research and control](../subjects/optimization/optimization-and-control.md#important-formulas-and-identities) |
+| Topology | [Topology: continuity, shape and holes](../subjects/topology/topology.md#important-formulas-and-identities) |
+| Differential geometry and tensors | [Differential geometry and tensor mathematics](../subjects/differential-geometry/geometry-and-tensors.md#important-formulas-and-identities) |
+| Functional analysis | [Functional analysis and operator theory](../subjects/functional-analysis/functional-analysis.md#important-formulas-and-identities) |
+| Transforms and special functions | [Harmonic analysis, transforms, and special functions](../subjects/harmonic-analysis/transforms-and-special-functions.md#important-formulas-and-identities) |
+| Applied mathematics and modeling | [Applied mathematics and mathematical modeling](../subjects/applied-mathematics/modeling.md#important-formulas-and-identities) |

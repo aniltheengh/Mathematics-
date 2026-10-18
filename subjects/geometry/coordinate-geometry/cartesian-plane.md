@@ -11,8 +11,9 @@
 This chapter translates positions into equations and equations back into shapes.
 Its scope is two-dimensional Euclidean geometry: points, segment lengths,
 midpoints, straight lines, their intersections, circles, and distances to lines.
-Conics other than circles, polar coordinates, and three-dimensional geometry are
-later topics.
+Continue with [conic sections](conic-sections.md) for ellipses, parabolas, and
+hyperbolas, or [coordinate systems](coordinate-systems-and-transformations.md)
+for polar, spatial, and projective descriptions.
 
 ## Prerequisites
 
@@ -391,9 +392,12 @@ right-hand side is impossible over the real numbers.
 - **Differential geometry:** changing coordinates on curved surfaces requires
   more than the flat-plane sum of coordinate squares.
 
-These extensions are mapped in [the subject contents](../../../CONTENTS.md).
-Their full chapters are planned. [Geometry overview](../overview.md) explains
-the relationship between coordinate and analytic geometry.
+Read the chapters on [linear algebra](../../linear-algebra/linear-algebra.md),
+[calculus](../../calculus/single-variable-calculus.md),
+[optimization](../../optimization/optimization-and-control.md), and
+[differential geometry](../../differential-geometry/geometry-and-tensors.md)
+for these extensions. [Geometry overview](../overview.md) explains the
+relationship between coordinate and analytic geometry.
 
 ## Applications
 

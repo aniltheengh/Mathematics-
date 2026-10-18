@@ -20,7 +20,9 @@ Specify whether a result is about points, vectors, functions, or numbers.
 
 ## Required topic anatomy
 
-Use all 17 sections in the template. A section may explain that a computational
+Use the title and classification followed by the 16 topic sections in the template
+(the 17 items in the project brief count the title/classification as the first item).
+A section may explain that a computational
 example or engineering application is unnecessary; it should not contain fake
 content merely to fill the template. Keep proofs close to statements. Every
 topic has prerequisites, a numerical example, a reasoning exercise, solutions or

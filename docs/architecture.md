@@ -9,17 +9,24 @@ sequence. The subject map is broad; only finished or actively written material
 gets a file. One canonical explanation owns each result. Proof, formula, and
 practice indexes link to that explanation.
 
+The expanded edition contains 28 chapters spanning all 25 subject branches.
+The tree below shows representative paths; the [master navigation](../INDEX.md)
+and machine-readable `learning/chapter-catalog.json` list the full chapter set.
+
 ```text
 personal-mathematics-encyclopedia/
   README.md                 entry point and quick start
   INDEX.md                  navigation for available material
-  CONTENTS.md               full coverage plan
+  CONTENTS.md               detailed subject classification
+  COVERAGE.md               edition depth and chapter catalog
   CONTRIBUTING.md           contribution and maintenance process
   subjects/
     geometry/
       overview.md
       coordinate-geometry/cartesian-plane.md
-  indexes/                  formulas, notation, proofs, practice
+      coordinate-geometry/conic-sections.md
+    ...                     the other written subject branches
+  indexes/                  formulas, notation, proofs, practice, figures
   exercises/geometry/       problems, separated from answers
   solutions/geometry/       worked solutions with backlinks
   assets/figures/            tracked PNG and SVG mathematics figures
@@ -34,8 +41,8 @@ personal-mathematics-encyclopedia/
   requirements*.txt         computing and optional publishing dependencies
 ```
 
-Create future subject directories such as `subjects/linear-algebra/` only when
-writing their first useful page. Keep paths lowercase with hyphens. Use stable
+Create additional subject directories only when writing their first useful page.
+Keep paths lowercase with hyphens. Use stable
 topic IDs such as `GEO-CG-001`; do not renumber existing files when adding a topic.
 
 ## Technology choices

@@ -5,6 +5,12 @@
 Notation is local to a topic; a symbol can have several established meanings.
 Define it where used rather than assuming this table settles every context.
 
+For complex inner products, the book uses the convention **conjugate-linear in
+the first argument and linear in the second**: in coordinates
+$\langle u,v\rangle=u^*v$. The projection coefficient of $x$ on a unit vector
+$e$ is $\langle e,x\rangle$. The star on a matrix denotes conjugate transpose;
+a distribution-test-function pairing is a different use of angle brackets.
+
 | Symbol | Meaning | Convention |
 | --- | --- | --- |
 | $\mathbb{N}$ | Natural numbers | This encyclopedia uses $\{0,1,2,\ldots\}$; state a different convention explicitly |

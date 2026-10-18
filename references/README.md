@@ -24,8 +24,9 @@ external proof or an invented reference page.
 
 ## Recommended next reading
 
-These are suggestions for future chapters, not claims that all their contents
-were consulted or implemented here.
+The resources below support deeper study alongside the written reference chapters.
+Each chapter's References section identifies the primary sources relevant to
+that subject; not every theorem in a cited book is reproduced or proved here.
 
 - Gilbert Strang, [MIT OpenCourseWare 18.06 Linear Algebra, Spring 2010](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/):
   vectors, matrices, orthogonality, and projections.
@@ -44,3 +45,12 @@ If a source cannot be checked, mark it unverified instead of citing precise deta
 Core topic pages use ordinary Markdown links so citations remain usable on
 GitHub. The book also loads the BibTeX file for future MyST citation support;
 the reading guide stays the human-readable source list.
+
+## Expanded subject references
+
+The [28 chapter reference sections](../INDEX.md) include subject-specific primary
+texts and author notes: MIT OpenCourseWare, OpenStax, Richard Hammack, Jiří Lebl,
+NIST mathematical references, and open author texts in algebra, probability,
+optimization, topology and geometry. Follow the chapter's direct source link
+and its stated purpose. The [coverage record](../COVERAGE.md) distinguishes a
+compact introduction from a specialist treatment.

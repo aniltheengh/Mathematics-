@@ -1,2 +1,29 @@
 topic_id,title,path,status,last_reviewed,next_review,evidence,next_action
+FND-001,"Logic, sets, and proof",subjects/foundations/logic-and-proof.md,not-started,,,,Attempt the first exercise with notes closed
+NUM-001,Arithmetic and number systems,subjects/numbers/arithmetic-and-number-systems.md,not-started,,,,Attempt the first exercise with notes closed
+ALG-001,Elementary and intermediate algebra,subjects/algebra/elementary-algebra.md,not-started,,,,Attempt the first exercise with notes closed
+GEO-EUC-001,"Euclidean geometry: shape, measurement, and proof",subjects/geometry/euclidean-geometry.md,not-started,,,,Attempt the first exercise with notes closed
 GEO-CG-001,Cartesian plane,subjects/geometry/coordinate-geometry/cartesian-plane.md,not-started,,,,Attempt CG-01 with notes closed
+GEO-CONIC-001,"Conic sections: circles, ellipses, parabolas, and hyperbolas",subjects/geometry/coordinate-geometry/conic-sections.md,not-started,,,,Attempt the first exercise with notes closed
+GEO-FRAME-001,"Coordinate systems, transformations, and quadrics",subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md,not-started,,,,Attempt the first exercise with notes closed
+TRI-001,Trigonometry and harmonic motion,subjects/trigonometry/trigonometry.md,not-started,,,,Attempt the first exercise with notes closed
+ANA-001,"Functions, limits, continuity, and series",subjects/analysis/functions-limits-and-series.md,not-started,,,,Attempt the first exercise with notes closed
+LA-01,Linear algebra and multilinear algebra,subjects/linear-algebra/linear-algebra.md,not-started,,,,Attempt the first exercise with notes closed
+CAL-01,Differential and integral calculus,subjects/calculus/single-variable-calculus.md,not-started,,,,Attempt the first exercise with notes closed
+MVC-01,Multivariable and vector calculus,subjects/calculus/multivariable-and-vector-calculus.md,not-started,,,,Attempt the first exercise with notes closed
+ODE-01,Ordinary differential equations and dynamical systems,subjects/differential-equations/ordinary-differential-equations.md,not-started,,,,Attempt the first exercise with notes closed
+PDE-01,Partial differential equations,subjects/differential-equations/partial-differential-equations.md,not-started,,,,Attempt the first exercise with notes closed
+DIS-001,Discrete mathematics and combinatorics,subjects/discrete/discrete-mathematics.md,not-started,,,,Attempt the first exercise with notes closed
+NTH-001,"Number theory: divisibility, congruences, and primes",subjects/number-theory/number-theory.md,not-started,,,,Attempt the first exercise with notes closed
+ABS-001,"Abstract algebra: groups, rings, fields, and structural methods",subjects/abstract-algebra/abstract-algebra.md,not-started,,,,Attempt the first exercise with notes closed
+RA-01,Real analysis and measure theory,subjects/analysis/real-analysis-and-measure.md,not-started,,,,Attempt the first exercise with notes closed
+CA-01,Complex analysis,subjects/complex-analysis/complex-analysis.md,not-started,,,,Attempt the first exercise with notes closed
+PROB-001,Probability and stochastic processes,subjects/probability/probability-and-stochastic-processes.md,not-started,,,,Attempt the first exercise with notes closed
+STAT-001,"Statistics, inference and data analysis",subjects/statistics/statistics.md,not-started,,,,Attempt the first exercise with notes closed
+NLA-001,Numerical analysis and scientific computation,subjects/numerical-analysis/numerical-analysis.md,not-started,,,,Attempt the first exercise with notes closed
+OPT-001,"Optimization, operations research and control",subjects/optimization/optimization-and-control.md,not-started,,,,Attempt the first exercise with notes closed
+TOP-001,"Topology: continuity, shape and holes",subjects/topology/topology.md,not-started,,,,Attempt the first exercise with notes closed
+DG-001,Differential geometry and tensor mathematics,subjects/differential-geometry/geometry-and-tensors.md,not-started,,,,Attempt the first exercise with notes closed
+FA-001,Functional analysis and operator theory,subjects/functional-analysis/functional-analysis.md,not-started,,,,Attempt the first exercise with notes closed
+HA-01,"Harmonic analysis, transforms, and special functions",subjects/harmonic-analysis/transforms-and-special-functions.md,not-started,,,,Attempt the first exercise with notes closed
+APP-001,Applied mathematics and mathematical modeling,subjects/applied-mathematics/modeling.md,not-started,,,,Attempt the first exercise with notes closed

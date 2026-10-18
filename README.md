@@ -8,14 +8,18 @@ idea, follow its proof to understand why it works, and solve a problem to find
 out whether you can use it independently.
 
 **Start here:** [Master navigation](INDEX.md) · [Full subject map](CONTENTS.md) ·
-[Cartesian coordinate geometry](subjects/geometry/coordinate-geometry/cartesian-plane.md)
+[Conic sections](subjects/geometry/coordinate-geometry/conic-sections.md) · [Coverage](COVERAGE.md)
 
 ## What is ready
 
-The first edition contains one complete introductory chapter on Cartesian plane
-geometry, 12 exercises with explained solutions, a formula reference, a notation
-guide, three reproducible figures, and an executed Jupyter notebook. The subject
-map describes future coverage; it does **not** claim those chapters exist yet.
+This edition contains **28 written mathematics chapters across 25 subject branches**,
+from arithmetic and proof to calculus, conic sections, differential equations,
+probability, numerical methods, topology, tensors, and functional analysis.
+Each chapter includes definitions, conditions, exact equations, worked examples,
+proofs or derivations, exercises, explained answers, and references. Graphs are
+generated from their stated equations, with an optional executed notebook.
+The [coverage record](COVERAGE.md) explains the compact-reference depth and
+distinguishes proofs developed here from deeper results stated with references.
 
 | Need | Open |
 | --- | --- |
@@ -27,6 +31,7 @@ map describes future coverage; it does **not** claim those chapters exist yet.
 | Plan a manageable return to mathematics | [Learning route](learning/learning-path.md) |
 | Record your own progress | [Revision method](learning/revision-guide.md) |
 | Find a source | [Bibliography](references/README.md) |
+| Inspect the graphs | [Figure gallery](indexes/figures.md) |
 
 ## Read without installing anything
 
@@ -52,6 +57,9 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m jupyterlab notebooks/coordinate-geometry.ipynb
 ```
 
+For the expanded book, also run `python scripts/verify_book_content.py`,
+`python scripts/verify_geometry.py`, `python scripts/verify_foundations.py`,
+`python scripts/verify_analysis.py`, and `python scripts/verify_advanced.py`.
 The explicit interpreter path avoids changing PowerShell's execution policy.
 NumPy, SymPy, Matplotlib, and Jupyter support the initial example. SciPy is
 reserved for later numerical mathematics and is listed separately in

@@ -1,0 +1,254 @@
+[
+  {
+    "group": 1,
+    "subject": "Foundations and logic",
+    "path": "subjects/foundations/logic-and-proof.md",
+    "title": "Logic, sets, and proof",
+    "topic_id": "FND-001",
+    "words": 1712,
+    "exercises": 5
+  },
+  {
+    "group": 2,
+    "subject": "Arithmetic and number systems",
+    "path": "subjects/numbers/arithmetic-and-number-systems.md",
+    "title": "Arithmetic and number systems",
+    "topic_id": "NUM-001",
+    "words": 1413,
+    "exercises": 5
+  },
+  {
+    "group": 3,
+    "subject": "Elementary algebra",
+    "path": "subjects/algebra/elementary-algebra.md",
+    "title": "Elementary and intermediate algebra",
+    "topic_id": "ALG-001",
+    "words": 1315,
+    "exercises": 6
+  },
+  {
+    "group": 4,
+    "subject": "Geometry",
+    "path": "subjects/geometry/euclidean-geometry.md",
+    "title": "Euclidean geometry: shape, measurement, and proof",
+    "topic_id": "GEO-EUC-001",
+    "words": 1893,
+    "exercises": 6
+  },
+  {
+    "group": 4,
+    "subject": "Geometry",
+    "path": "subjects/geometry/coordinate-geometry/cartesian-plane.md",
+    "title": "Cartesian plane: points, lines, and circles",
+    "topic_id": "GEO-CG-001",
+    "words": 2723,
+    "exercises": 12
+  },
+  {
+    "group": 4,
+    "subject": "Geometry",
+    "path": "subjects/geometry/coordinate-geometry/conic-sections.md",
+    "title": "Conic sections: circles, ellipses, parabolas, and hyperbolas",
+    "topic_id": "GEO-CONIC-001",
+    "words": 2323,
+    "exercises": 8
+  },
+  {
+    "group": 4,
+    "subject": "Geometry",
+    "path": "subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md",
+    "title": "Coordinate systems, transformations, and quadrics",
+    "topic_id": "GEO-FRAME-001",
+    "words": 1761,
+    "exercises": 6
+  },
+  {
+    "group": 5,
+    "subject": "Trigonometry",
+    "path": "subjects/trigonometry/trigonometry.md",
+    "title": "Trigonometry and harmonic motion",
+    "topic_id": "TRI-001",
+    "words": 1330,
+    "exercises": 5
+  },
+  {
+    "group": 6,
+    "subject": "Functions, limits, and series",
+    "path": "subjects/analysis/functions-limits-and-series.md",
+    "title": "Functions, limits, continuity, and series",
+    "topic_id": "ANA-001",
+    "words": 1739,
+    "exercises": 5
+  },
+  {
+    "group": 7,
+    "subject": "Linear and multilinear algebra",
+    "path": "subjects/linear-algebra/linear-algebra.md",
+    "title": "Linear algebra and multilinear algebra",
+    "topic_id": "LA-01",
+    "words": 1462,
+    "exercises": 4
+  },
+  {
+    "group": 8,
+    "subject": "Single-variable calculus",
+    "path": "subjects/calculus/single-variable-calculus.md",
+    "title": "Differential and integral calculus",
+    "topic_id": "CAL-01",
+    "words": 1423,
+    "exercises": 4
+  },
+  {
+    "group": 9,
+    "subject": "Multivariable and vector calculus",
+    "path": "subjects/calculus/multivariable-and-vector-calculus.md",
+    "title": "Multivariable and vector calculus",
+    "topic_id": "MVC-01",
+    "words": 1460,
+    "exercises": 4
+  },
+  {
+    "group": 10,
+    "subject": "Ordinary differential equations",
+    "path": "subjects/differential-equations/ordinary-differential-equations.md",
+    "title": "Ordinary differential equations and dynamical systems",
+    "topic_id": "ODE-01",
+    "words": 1459,
+    "exercises": 4
+  },
+  {
+    "group": 11,
+    "subject": "Partial differential equations",
+    "path": "subjects/differential-equations/partial-differential-equations.md",
+    "title": "Partial differential equations",
+    "topic_id": "PDE-01",
+    "words": 1503,
+    "exercises": 4
+  },
+  {
+    "group": 12,
+    "subject": "Discrete mathematics",
+    "path": "subjects/discrete/discrete-mathematics.md",
+    "title": "Discrete mathematics and combinatorics",
+    "topic_id": "DIS-001",
+    "words": 1779,
+    "exercises": 6
+  },
+  {
+    "group": 13,
+    "subject": "Number theory",
+    "path": "subjects/number-theory/number-theory.md",
+    "title": "Number theory: divisibility, congruences, and primes",
+    "topic_id": "NTH-001",
+    "words": 1499,
+    "exercises": 6
+  },
+  {
+    "group": 14,
+    "subject": "Abstract algebra",
+    "path": "subjects/abstract-algebra/abstract-algebra.md",
+    "title": "Abstract algebra: groups, rings, fields, and structural methods",
+    "topic_id": "ABS-001",
+    "words": 2045,
+    "exercises": 6
+  },
+  {
+    "group": 15,
+    "subject": "Real analysis and measure",
+    "path": "subjects/analysis/real-analysis-and-measure.md",
+    "title": "Real analysis and measure theory",
+    "topic_id": "RA-01",
+    "words": 1678,
+    "exercises": 4
+  },
+  {
+    "group": 16,
+    "subject": "Complex analysis",
+    "path": "subjects/complex-analysis/complex-analysis.md",
+    "title": "Complex analysis",
+    "topic_id": "CA-01",
+    "words": 1565,
+    "exercises": 4
+  },
+  {
+    "group": 17,
+    "subject": "Probability and stochastic processes",
+    "path": "subjects/probability/probability-and-stochastic-processes.md",
+    "title": "Probability and stochastic processes",
+    "topic_id": "PROB-001",
+    "words": 1377,
+    "exercises": 4
+  },
+  {
+    "group": 18,
+    "subject": "Statistics",
+    "path": "subjects/statistics/statistics.md",
+    "title": "Statistics, inference and data analysis",
+    "topic_id": "STAT-001",
+    "words": 1467,
+    "exercises": 4
+  },
+  {
+    "group": 19,
+    "subject": "Numerical analysis",
+    "path": "subjects/numerical-analysis/numerical-analysis.md",
+    "title": "Numerical analysis and scientific computation",
+    "topic_id": "NLA-001",
+    "words": 1601,
+    "exercises": 4
+  },
+  {
+    "group": 20,
+    "subject": "Optimization and control",
+    "path": "subjects/optimization/optimization-and-control.md",
+    "title": "Optimization, operations research and control",
+    "topic_id": "OPT-001",
+    "words": 1600,
+    "exercises": 4
+  },
+  {
+    "group": 21,
+    "subject": "Topology",
+    "path": "subjects/topology/topology.md",
+    "title": "Topology: continuity, shape and holes",
+    "topic_id": "TOP-001",
+    "words": 1844,
+    "exercises": 4
+  },
+  {
+    "group": 22,
+    "subject": "Differential geometry and tensors",
+    "path": "subjects/differential-geometry/geometry-and-tensors.md",
+    "title": "Differential geometry and tensor mathematics",
+    "topic_id": "DG-001",
+    "words": 1522,
+    "exercises": 4
+  },
+  {
+    "group": 23,
+    "subject": "Functional analysis",
+    "path": "subjects/functional-analysis/functional-analysis.md",
+    "title": "Functional analysis and operator theory",
+    "topic_id": "FA-001",
+    "words": 1738,
+    "exercises": 4
+  },
+  {
+    "group": 24,
+    "subject": "Transforms and special functions",
+    "path": "subjects/harmonic-analysis/transforms-and-special-functions.md",
+    "title": "Harmonic analysis, transforms, and special functions",
+    "topic_id": "HA-01",
+    "words": 1558,
+    "exercises": 4
+  },
+  {
+    "group": 25,
+    "subject": "Applied mathematics and modeling",
+    "path": "subjects/applied-mathematics/modeling.md",
+    "title": "Applied mathematics and mathematical modeling",
+    "topic_id": "APP-001",
+    "words": 1736,
+    "exercises": 4
+  }
+]
