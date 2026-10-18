@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; advanced results stated with hypotheses, not fully proved.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [From base rates to evidence: a guided probability and inference lesson](../../lessons/advanced/probability-and-inference.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Sets, functions, finite sums, derivatives and integrals are needed; measure theory is needed for the rigorous process results. Diagnostic: if $P(A)=1/3$, what is $P(A^c)$? It is $2/3$, since the disjoint events exhaust the sample space. Probability measures mathematical uncertainty; the choice of model must still be justified by data or a physical argument.

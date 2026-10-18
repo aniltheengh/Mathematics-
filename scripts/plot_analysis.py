@@ -92,7 +92,7 @@ def gradient():
     contours = ax.contour(x, y, x*x+2*y*y, levels=[0.5, 1, 2, 4, 6, 8],
                           colors=COLORS[0], linewidths=1.2)
     ax.clabel(contours, inline=True, fontsize=10)
-    sample = np.linspace(-1.6, 1.6, 9)
+    sample = np.linspace(-1.4, 1.4, 9)
     sx, sy = np.meshgrid(sample, sample)
     ax.quiver(sx, sy, 2*sx, 4*sy, color=COLORS[1], angles="xy",
               scale_units="xy", scale=12, width=0.004)

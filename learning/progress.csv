@@ -27,3 +27,15 @@ DG-001,Differential geometry and tensor mathematics,subjects/differential-geomet
 FA-001,Functional analysis and operator theory,subjects/functional-analysis/functional-analysis.md,not-started,,,,Attempt the first exercise with notes closed
 HA-01,"Harmonic analysis, transforms, and special functions",subjects/harmonic-analysis/transforms-and-special-functions.md,not-started,,,,Attempt the first exercise with notes closed
 APP-001,Applied mathematics and mathematical modeling,subjects/applied-mathematics/modeling.md,not-started,,,,Attempt the first exercise with notes closed
+LES-FND-01,Proof workshop: turn a claim into a justified argument,lessons/foundations/proof-workshop.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-FND-02,Algebra and functions: preserve meaning through every transformation,lessons/foundations/algebra-and-functions.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-FND-03,"Trigonometry and vectors: rotation, phase, and mechanical projections",lessons/foundations/trigonometry-and-vectors.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-GEO-01,Conics I: from a geometric constraint to an equation,lessons/geometry/conics-focus-to-equation.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-LA-01,"Linear maps, bases, and least squares",lessons/analysis/linear-algebra-and-least-squares.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-CAL-01,Calculus from limits to models,lessons/analysis/calculus-from-limits-to-models.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-GEO-02,"Conics II: tangents, normals, curvature, and reflection",lessons/geometry/conics-tangents-and-reflection.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-GEO-03,Conics III: classify every real quadratic without guessing,lessons/geometry/conics-matrices-and-classification.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-DE-01,"Differential equations: models, modes, and stability",lessons/analysis/differential-equations-and-stability.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-ADV-001,From base rates to evidence: a guided probability and inference lesson,lessons/advanced/probability-and-inference.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-ADV-002,Approximation and optimization: decide what an error means,lessons/advanced/approximation-and-optimization.md,not-started,,,,Reconstruct one derivation and attempt exercise 1
+LES-ADV-003,Spaces and convergence: what does it mean to get close?,lessons/advanced/spaces-and-convergence.md,not-started,,,,Reconstruct one derivation and attempt exercise 1

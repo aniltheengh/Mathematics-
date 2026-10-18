@@ -5,7 +5,7 @@
     "path": "subjects/foundations/logic-and-proof.md",
     "title": "Logic, sets, and proof",
     "topic_id": "FND-001",
-    "words": 1712,
+    "words": 1730,
     "exercises": 5
   },
   {
@@ -23,7 +23,7 @@
     "path": "subjects/algebra/elementary-algebra.md",
     "title": "Elementary and intermediate algebra",
     "topic_id": "ALG-001",
-    "words": 1315,
+    "words": 1332,
     "exercises": 6
   },
   {
@@ -41,7 +41,7 @@
     "path": "subjects/geometry/coordinate-geometry/cartesian-plane.md",
     "title": "Cartesian plane: points, lines, and circles",
     "topic_id": "GEO-CG-001",
-    "words": 2723,
+    "words": 2741,
     "exercises": 12
   },
   {
@@ -50,7 +50,7 @@
     "path": "subjects/geometry/coordinate-geometry/conic-sections.md",
     "title": "Conic sections: circles, ellipses, parabolas, and hyperbolas",
     "topic_id": "GEO-CONIC-001",
-    "words": 2323,
+    "words": 2358,
     "exercises": 8
   },
   {
@@ -59,7 +59,7 @@
     "path": "subjects/geometry/coordinate-geometry/coordinate-systems-and-transformations.md",
     "title": "Coordinate systems, transformations, and quadrics",
     "topic_id": "GEO-FRAME-001",
-    "words": 1761,
+    "words": 1778,
     "exercises": 6
   },
   {
@@ -68,7 +68,7 @@
     "path": "subjects/trigonometry/trigonometry.md",
     "title": "Trigonometry and harmonic motion",
     "topic_id": "TRI-001",
-    "words": 1330,
+    "words": 1347,
     "exercises": 5
   },
   {
@@ -77,7 +77,7 @@
     "path": "subjects/analysis/functions-limits-and-series.md",
     "title": "Functions, limits, continuity, and series",
     "topic_id": "ANA-001",
-    "words": 1739,
+    "words": 1756,
     "exercises": 5
   },
   {
@@ -86,7 +86,7 @@
     "path": "subjects/linear-algebra/linear-algebra.md",
     "title": "Linear algebra and multilinear algebra",
     "topic_id": "LA-01",
-    "words": 1462,
+    "words": 1477,
     "exercises": 4
   },
   {
@@ -95,7 +95,7 @@
     "path": "subjects/calculus/single-variable-calculus.md",
     "title": "Differential and integral calculus",
     "topic_id": "CAL-01",
-    "words": 1423,
+    "words": 1437,
     "exercises": 4
   },
   {
@@ -113,7 +113,7 @@
     "path": "subjects/differential-equations/ordinary-differential-equations.md",
     "title": "Ordinary differential equations and dynamical systems",
     "topic_id": "ODE-01",
-    "words": 1459,
+    "words": 1474,
     "exercises": 4
   },
   {
@@ -122,7 +122,7 @@
     "path": "subjects/differential-equations/partial-differential-equations.md",
     "title": "Partial differential equations",
     "topic_id": "PDE-01",
-    "words": 1503,
+    "words": 1518,
     "exercises": 4
   },
   {
@@ -158,7 +158,7 @@
     "path": "subjects/analysis/real-analysis-and-measure.md",
     "title": "Real analysis and measure theory",
     "topic_id": "RA-01",
-    "words": 1678,
+    "words": 1697,
     "exercises": 4
   },
   {
@@ -176,7 +176,7 @@
     "path": "subjects/probability/probability-and-stochastic-processes.md",
     "title": "Probability and stochastic processes",
     "topic_id": "PROB-001",
-    "words": 1377,
+    "words": 1397,
     "exercises": 4
   },
   {
@@ -185,7 +185,7 @@
     "path": "subjects/statistics/statistics.md",
     "title": "Statistics, inference and data analysis",
     "topic_id": "STAT-001",
-    "words": 1467,
+    "words": 1487,
     "exercises": 4
   },
   {
@@ -194,7 +194,7 @@
     "path": "subjects/numerical-analysis/numerical-analysis.md",
     "title": "Numerical analysis and scientific computation",
     "topic_id": "NLA-001",
-    "words": 1601,
+    "words": 1618,
     "exercises": 4
   },
   {
@@ -203,7 +203,7 @@
     "path": "subjects/optimization/optimization-and-control.md",
     "title": "Optimization, operations research and control",
     "topic_id": "OPT-001",
-    "words": 1600,
+    "words": 1617,
     "exercises": 4
   },
   {
@@ -221,7 +221,7 @@
     "path": "subjects/differential-geometry/geometry-and-tensors.md",
     "title": "Differential geometry and tensor mathematics",
     "topic_id": "DG-001",
-    "words": 1522,
+    "words": 1538,
     "exercises": 4
   },
   {
@@ -230,7 +230,7 @@
     "path": "subjects/functional-analysis/functional-analysis.md",
     "title": "Functional analysis and operator theory",
     "topic_id": "FA-001",
-    "words": 1738,
+    "words": 1757,
     "exercises": 4
   },
   {

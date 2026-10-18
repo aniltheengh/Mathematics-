@@ -28,6 +28,10 @@ jobs:
           python scripts/verify_foundations.py
           python scripts/verify_analysis.py
           python scripts/verify_advanced.py
+          python scripts/verify_lessons_foundations.py
+          python scripts/verify_lessons_geometry.py
+          python scripts/verify_lessons_analysis.py
+          python scripts/verify_lessons_advanced.py
       - name: Regenerate chapter figures
         run: |
           python scripts/plot_coordinate_geometry.py
@@ -35,11 +39,16 @@ jobs:
           python scripts/plot_foundations.py
           python scripts/plot_analysis.py
           python scripts/plot_advanced.py
+          python scripts/plot_lessons_foundations.py
+          python scripts/plot_lessons_geometry.py
+          python scripts/plot_lessons_analysis.py
+          python scripts/plot_lessons_advanced.py
       - name: Execute the notebook in a fresh kernel
         run: python scripts/execute_notebook.py
       - name: Check navigation and content structure
         run: |
           python scripts/check_repository.py
           python scripts/verify_book_content.py
+          python scripts/verify_guided_lessons.py
       - name: Build the book with strict checks
         run: jupyter-book build --html --strict

@@ -6,6 +6,10 @@
 **Content status:** Written compact reference chapter.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Calculus from limits to models](../../lessons/analysis/calculus-from-limits-to-models.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Know functions, limits, algebra, radians, exponentials, and logarithms. Diagnostic: $(x+h)^2-x^2=2xh+h^2$, so its quotient by $h\ne0$ tends to $2x$ as $h\to0$. Calculus uses this limiting process to distinguish an instantaneous rate from an average rate. The [subject map](../../CONTENTS.md) locates the elementary prerequisites and convergence theory.

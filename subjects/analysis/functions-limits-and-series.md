@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; deep existence theorems cited without proof.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Algebra and functions: preserve meaning through every transformation](../../lessons/foundations/algebra-and-functions.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use [algebra](../algebra/elementary-algebra.md),

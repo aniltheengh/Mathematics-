@@ -6,6 +6,10 @@
 **Content status:** Written compact reference.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Algebra and functions: preserve meaning through every transformation](../../lessons/foundations/algebra-and-functions.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use [signed arithmetic, fractions, radicals, and number systems](../numbers/arithmetic-and-number-systems.md).

@@ -8,6 +8,10 @@
 
 [Home](../../../README.md) · [Contents](../../../CONTENTS.md) · [Cartesian plane](cartesian-plane.md)
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Conics I: from a geometric constraint to an equation](../../../lessons/geometry/conics-focus-to-equation.md) · [Conics II: tangents, normals, curvature, and reflection](../../../lessons/geometry/conics-tangents-and-reflection.md) · [Conics III: classify every real quadratic without guessing](../../../lessons/geometry/conics-matrices-and-classification.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Review [distance, lines, and completing squares](cartesian-plane.md), quadratic

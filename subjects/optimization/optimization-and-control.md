@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; major existence and duality results are stated, not exhaustively proved.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Approximation and optimization: decide what an error means](../../lessons/advanced/approximation-and-optimization.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Derivatives, gradients, matrices, eigenvalues, ordinary differential equations and basic probability are needed. Diagnostic: minimizing $(x-3)^2$ over $x\le1$ gives $x=1$, even though the unconstrained derivative vanishes at $3$. Constraints can determine the optimum. Numerical implementation also needs [conditioning and stopping criteria](../numerical-analysis/numerical-analysis.md).

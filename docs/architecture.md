@@ -27,6 +27,12 @@ personal-mathematics-encyclopedia/
       coordinate-geometry/conic-sections.md
     ...                     the other written subject branches
   indexes/                  formulas, notation, proofs, practice, figures
+  lessons/                  sequenced guided study, with original derivations
+    README.md               prerequisite-aware lesson route
+    geometry/               three-part conic sequence
+    foundations/            proof, algebra, trigonometry and vectors
+    analysis/               calculus, least squares, differential equations
+    advanced/               probability, optimization, spaces and convergence
   exercises/geometry/       problems, separated from answers
   solutions/geometry/       worked solutions with backlinks
   assets/figures/            tracked PNG and SVG mathematics figures
@@ -34,6 +40,7 @@ personal-mathematics-encyclopedia/
   scripts/                  plot generation and validation
   references/               reading guide and references.bib
   learning/                 learning route, revision guide, progress.csv
+    lesson-catalog.json     measured lesson stages, exercises and figure links
   templates/                topic and formula templates
   docs/                     standards, setup, publishing, verification
   .github/workflows/        verification on pushes and pull requests
@@ -46,6 +53,13 @@ Keep paths lowercase with hyphens. Use stable
 topic IDs such as `GEO-CG-001`; do not renumber existing files when adding a topic.
 
 ## Technology choices
+
+Reference chapters retain the mathematical classification. Guided lessons
+develop selected topics as a connected learning sequence and link back to the
+canonical references. They have stable lesson IDs, stated prerequisites,
+sequential stages, worked examples, and their own explained practice. The
+catalog refresh script updates their indexes and adds missing progress rows
+while preserving existing personal statuses, evidence, and dates.
 
 | Choice | Purpose and constraint |
 | --- | --- |

@@ -1,8 +1,8 @@
 version: 1
 project:
   title: Personal Mathematics Encyclopedia
-  description: Mathematics reference across 25 subject branches, with exact equations, proofs, examples,
-    exercises, and reproducible graphs.
+  description: Mathematics reference across 25 subject branches, with exact equations,
+    proofs, examples, exercises, and reproducible graphs.
   bibliography:
   - references/references.bib
   toc:
@@ -92,6 +92,21 @@ project:
   - title: 25 Applied mathematics and modeling
     children:
     - file: subjects/applied-mathematics/modeling.md
+  - title: Guided lessons
+    children:
+    - file: lessons/README.md
+    - file: lessons/foundations/proof-workshop.md
+    - file: lessons/foundations/algebra-and-functions.md
+    - file: lessons/foundations/trigonometry-and-vectors.md
+    - file: lessons/geometry/conics-focus-to-equation.md
+    - file: lessons/analysis/linear-algebra-and-least-squares.md
+    - file: lessons/analysis/calculus-from-limits-to-models.md
+    - file: lessons/geometry/conics-tangents-and-reflection.md
+    - file: lessons/geometry/conics-matrices-and-classification.md
+    - file: lessons/analysis/differential-equations-and-stability.md
+    - file: lessons/advanced/probability-and-inference.md
+    - file: lessons/advanced/approximation-and-optimization.md
+    - file: lessons/advanced/spaces-and-convergence.md
   - title: Reference tools
     children:
     - file: indexes/formulas.md

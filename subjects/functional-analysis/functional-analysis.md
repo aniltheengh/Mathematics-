@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; major Banach-space theorems are stated with hypotheses and references.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Spaces and convergence: what does it mean to get close?](../../lessons/advanced/spaces-and-convergence.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Linear algebra, rigorous convergence, integrals, and metric-space completeness are needed. Lebesgue integration supports $L^p$ spaces. Diagnostic: in $\ell^2$, the coordinate vectors $e_n$ all have norm one and pairwise distance $\sqrt2$, so boundedness does not imply a norm-convergent subsequence. This sharply distinguishes infinite-dimensional geometry from finite-dimensional Euclidean space. [Topology](../topology/topology.md) supplies compactness and continuity language.

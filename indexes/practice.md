@@ -37,3 +37,24 @@ and a mastery check; the separate Cartesian set contains 12 additional foundatio
 | Applied mathematics and modeling | [Applied mathematics and mathematical modeling](../subjects/applied-mathematics/modeling.md#practice-problems) | [Answers](../subjects/applied-mathematics/modeling.md#answers-and-explanations) | 4 |
 
 Total enumerated practice problems: **140**. Worked examples are counted separately.
+
+<!-- guided-lessons:start -->
+## Guided lesson practice
+
+| Lesson | Practice | Explained answers |
+| --- | --- | --- |
+| [Proof workshop: turn a claim into a justified argument](../lessons/foundations/proof-workshop.md) | [8 problems](../lessons/foundations/proof-workshop.md#practice-problems) | [Solutions](../lessons/foundations/proof-workshop.md#answers-and-explanations) |
+| [Algebra and functions: preserve meaning through every transformation](../lessons/foundations/algebra-and-functions.md) | [8 problems](../lessons/foundations/algebra-and-functions.md#practice-problems) | [Solutions](../lessons/foundations/algebra-and-functions.md#answers-and-explanations) |
+| [Trigonometry and vectors: rotation, phase, and mechanical projections](../lessons/foundations/trigonometry-and-vectors.md) | [8 problems](../lessons/foundations/trigonometry-and-vectors.md#practice-problems) | [Solutions](../lessons/foundations/trigonometry-and-vectors.md#answers-and-explanations) |
+| [Conics I: from a geometric constraint to an equation](../lessons/geometry/conics-focus-to-equation.md) | [8 problems](../lessons/geometry/conics-focus-to-equation.md#practice-problems) | [Solutions](../lessons/geometry/conics-focus-to-equation.md#answers-and-explanations) |
+| [Linear maps, bases, and least squares](../lessons/analysis/linear-algebra-and-least-squares.md) | [8 problems](../lessons/analysis/linear-algebra-and-least-squares.md#practice-problems) | [Solutions](../lessons/analysis/linear-algebra-and-least-squares.md#answers-and-explanations) |
+| [Calculus from limits to models](../lessons/analysis/calculus-from-limits-to-models.md) | [8 problems](../lessons/analysis/calculus-from-limits-to-models.md#practice-problems) | [Solutions](../lessons/analysis/calculus-from-limits-to-models.md#answers-and-explanations) |
+| [Conics II: tangents, normals, curvature, and reflection](../lessons/geometry/conics-tangents-and-reflection.md) | [8 problems](../lessons/geometry/conics-tangents-and-reflection.md#practice-problems) | [Solutions](../lessons/geometry/conics-tangents-and-reflection.md#answers-and-explanations) |
+| [Conics III: classify every real quadratic without guessing](../lessons/geometry/conics-matrices-and-classification.md) | [8 problems](../lessons/geometry/conics-matrices-and-classification.md#practice-problems) | [Solutions](../lessons/geometry/conics-matrices-and-classification.md#answers-and-explanations) |
+| [Differential equations: models, modes, and stability](../lessons/analysis/differential-equations-and-stability.md) | [8 problems](../lessons/analysis/differential-equations-and-stability.md#practice-problems) | [Solutions](../lessons/analysis/differential-equations-and-stability.md#answers-and-explanations) |
+| [From base rates to evidence: a guided probability and inference lesson](../lessons/advanced/probability-and-inference.md) | [8 problems](../lessons/advanced/probability-and-inference.md#practice-problems) | [Solutions](../lessons/advanced/probability-and-inference.md#answers-and-explanations) |
+| [Approximation and optimization: decide what an error means](../lessons/advanced/approximation-and-optimization.md) | [8 problems](../lessons/advanced/approximation-and-optimization.md#practice-problems) | [Solutions](../lessons/advanced/approximation-and-optimization.md#answers-and-explanations) |
+| [Spaces and convergence: what does it mean to get close?](../lessons/advanced/spaces-and-convergence.md) | [8 problems](../lessons/advanced/spaces-and-convergence.md#practice-problems) | [Solutions](../lessons/advanced/spaces-and-convergence.md#answers-and-explanations) |
+
+Total including reference chapters: **236 enumerated practice problems**.
+<!-- guided-lessons:end -->

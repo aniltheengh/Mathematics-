@@ -6,6 +6,10 @@
 
 [Home](../../../README.md) · [Contents](../../../CONTENTS.md) · [Conics](conic-sections.md)
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Conics III: classify every real quadratic without guessing](../../../lessons/geometry/conics-matrices-and-classification.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use trigonometry, vectors, matrices, and [Cartesian geometry](cartesian-plane.md).

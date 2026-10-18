@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; advanced results explicitly cited without proof.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Proof workshop: turn a claim into a justified argument](../../lessons/foundations/proof-workshop.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Only integer arithmetic is needed for the main examples. A statement is something

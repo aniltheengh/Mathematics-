@@ -6,6 +6,10 @@
 **Content status:** Written compact reference chapter.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Spaces and convergence: what does it mean to get close?](../../lessons/advanced/spaces-and-convergence.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Know sets, quantifiers, sequences, and [calculus](../calculus/single-variable-calculus.md). Diagnostic: to prove $1/n\to0$, given $\varepsilon>0$, choose an integer $N>1/\varepsilon$; then $n\ge N$ implies $|1/n|<\varepsilon$. The integer is chosen after the tolerance and works for every later term. Reversing those quantifiers changes the statement.

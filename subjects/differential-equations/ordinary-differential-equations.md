@@ -6,6 +6,10 @@
 **Content status:** Written compact reference chapter.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Differential equations: models, modes, and stability](../../lessons/analysis/differential-equations-and-stability.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use [calculus](../calculus/single-variable-calculus.md), complex roots, and [linear algebra](../linear-algebra/linear-algebra.md). Diagnostic: $y=Ce^{-2t}$ satisfies $y'+2y=0$ for every constant $C$. An initial value selects one member, so $y(0)=3$ selects $C=3$. Always check both the equation and the data; satisfying only one is insufficient.

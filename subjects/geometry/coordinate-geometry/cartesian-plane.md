@@ -15,6 +15,10 @@ Continue with [conic sections](conic-sections.md) for ellipses, parabolas, and
 hyperbolas, or [coordinate systems](coordinate-systems-and-transformations.md)
 for polar, spatial, and projective descriptions.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Conics I: from a geometric constraint to an equation](../../../lessons/geometry/conics-focus-to-equation.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 You need signed real numbers, fractions, squaring, square roots, substitution,

@@ -35,6 +35,27 @@ Start at your current gap, follow the prerequisites, and use the explained exerc
 | 24 Transforms and special functions | [Harmonic analysis, transforms, and special functions](subjects/harmonic-analysis/transforms-and-special-functions.md) |
 | 25 Applied mathematics and modeling | [Applied mathematics and mathematical modeling](subjects/applied-mathematics/modeling.md) |
 
+<!-- lesson-navigation:start -->
+## Guided study with more depth
+
+[Follow the lesson route](lessons/README.md) for connected derivations, worked examples, and explained practice.
+
+| Lesson | Main work |
+| --- | --- |
+| [Proof workshop: turn a claim into a justified argument](lessons/foundations/proof-workshop.md) | Quantifiers, complete proofs, and counterexamples |
+| [Algebra and functions: preserve meaning through every transformation](lessons/foundations/algebra-and-functions.md) | Domains, inequalities, composition, and inverses |
+| [Trigonometry and vectors: rotation, phase, and mechanical projections](lessons/foundations/trigonometry-and-vectors.md) | Rotations, phase, forces, and projections |
+| [Conics I: from a geometric constraint to an equation](lessons/geometry/conics-focus-to-equation.md) | Focal definitions, exact equations, and cone sections |
+| [Linear maps, bases, and least squares](lessons/analysis/linear-algebra-and-least-squares.md) | Bases, rank, projection, QR, and conditioning |
+| [Calculus from limits to models](lessons/analysis/calculus-from-limits-to-models.md) | Limits, rates, accumulation, and approximation error |
+| [Conics II: tangents, normals, curvature, and reflection](lessons/geometry/conics-tangents-and-reflection.md) | Tangency, reflected rays, curvature, and normal contacts |
+| [Conics III: classify every real quadratic without guessing](lessons/geometry/conics-matrices-and-classification.md) | Principal axes, real existence, rank, and degeneracy |
+| [Differential equations: models, modes, and stability](lessons/analysis/differential-equations-and-stability.md) | Oscillators, forcing, stability, and heat modes |
+| [From base rates to evidence: a guided probability and inference lesson](lessons/advanced/probability-and-inference.md) | Base rates, variance, likelihood, and intervals |
+| [Approximation and optimization: decide what an error means](lessons/advanced/approximation-and-optimization.md) | Sensitivity, roots, gradient descent, and KKT certificates |
+| [Spaces and convergence: what does it mean to get close?](lessons/advanced/spaces-and-convergence.md) | Uniform and integral error, projection, completeness, and weak limits |
+<!-- lesson-navigation:end -->
+
 ## Reference tools
 
 [Formula index](indexes/formulas.md) · [Notation](indexes/notation.md) · [Proof index](indexes/proofs.md) · [Practice index](indexes/practice.md) · [Figure gallery](indexes/figures.md) · [References](references/README.md)

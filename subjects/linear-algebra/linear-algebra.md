@@ -6,6 +6,10 @@
 **Content status:** Written compact reference chapter.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Linear maps, bases, and least squares](../../lessons/analysis/linear-algebra-and-least-squares.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use real and complex arithmetic, simultaneous equations, and functions. Diagnostic: solve $x+y=3$, $x-y=1$; the answer is $(2,1)$. A vector is an object that can be added and scaled; its coordinates depend on a chosen basis. This distinction is essential before tensors. Geometric coordinates are introduced in the [Cartesian plane chapter](../geometry/coordinate-geometry/cartesian-plane.md).

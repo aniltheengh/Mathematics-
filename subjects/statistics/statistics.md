@@ -6,6 +6,10 @@
 **Content status:** Written compact reference.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [From base rates to evidence: a guided probability and inference lesson](../../lessons/advanced/probability-and-inference.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Understand means, algebra, probability distributions, logarithms and basic matrices. Diagnostic: observations $2,4,6$ have mean $4$, but their sample variance is $(4+0+4)/2=4$, since an estimated mean uses one degree of freedom. [Probability](../probability/probability-and-stochastic-processes.md) supplies the stochastic language. Calculus is needed for likelihood optimization.

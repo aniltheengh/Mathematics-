@@ -6,6 +6,10 @@
 **Content status:** Written compact reference.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Approximation and optimization: decide what an error means](../../lessons/advanced/approximation-and-optimization.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Calculus, matrix algebra and elementary differential equations are needed. Diagnostic: the exact derivative of $x^2$ at $x=2$ is $4$; its forward difference with step $h$ is $4+h$. The discrepancy is a mathematical approximation error even with exact arithmetic. [Modeling](../applied-mathematics/modeling.md) explains the separate error of replacing physics by equations.

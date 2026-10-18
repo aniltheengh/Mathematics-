@@ -41,6 +41,22 @@ fixed before merging.
 
 ## Maintenance rhythm
 
+For guided lesson edits, run the catalog refresh and delivery audit as well as
+the relevant subject mathematics and plotting scripts:
+
+<code>python scripts/refresh_learning_catalogs.py</code>  
+<code>python scripts/verify_guided_lessons.py</code>
+
+The refresh preserves existing personal study fields and updates measured
+lesson sizes, stage counts, practice links, figure links, and chapter backlinks.
+Every lesson must state prerequisites and objectives, develop connected stages,
+and supply explained exercises. A source-word threshold detects a missing
+manuscript; it is not a substitute for mathematical depth or review.
+
+The full GitHub workflow lists the reference and lesson verification commands
+and regenerates their figures before the strict build. Reproduce the applicable
+commands locally when making mathematical changes.
+
 After each study session, update only the relevant progress row with an honest
 result. Monthly, repair broken navigation, reconcile formula entries with their
 chapter, and review difficult topics. Before a dependency upgrade, record tested

@@ -10,6 +10,10 @@ out whether you can use it independently.
 **Start here:** [Master navigation](INDEX.md) · [Full subject map](CONTENTS.md) ·
 [Conic sections](subjects/geometry/coordinate-geometry/conic-sections.md) · [Coverage](COVERAGE.md)
 
+**Study in depth:** [Twelve guided lessons](lessons/README.md), including a
+three-part conic sequence, develop the reference material through connected
+derivations, worked examples, and additional diagrams.
+
 ## What is ready
 
 This edition contains **28 written mathematics chapters across 25 subject branches**,
@@ -24,6 +28,7 @@ distinguishes proofs developed here from deeper results stated with references.
 | Need | Open |
 | --- | --- |
 | Recover a forgotten idea | [Chapter and section navigation](INDEX.md) |
+| Study an idea step by step | [Guided lessons with deeper derivations](lessons/README.md) |
 | Look up a formula with its conditions | [Formula index](indexes/formulas.md) |
 | Decode a symbol | [Notation](indexes/notation.md) |
 | Understand why a result holds | [Proof and derivation index](indexes/proofs.md) |
@@ -61,6 +66,15 @@ For the expanded book, also run `python scripts/verify_book_content.py`,
 `python scripts/verify_geometry.py`, `python scripts/verify_foundations.py`,
 `python scripts/verify_analysis.py`, and `python scripts/verify_advanced.py`.
 The explicit interpreter path avoids changing PowerShell's execution policy.
+The guided lessons add four subject suites named
+<code>scripts/verify_lessons_foundations.py</code>,
+<code>scripts/verify_lessons_geometry.py</code>,
+<code>scripts/verify_lessons_analysis.py</code>, and
+<code>scripts/verify_lessons_advanced.py</code>, plus the structural audit
+<code>scripts/verify_guided_lessons.py</code>. Their corresponding plot scripts
+reproduce all lesson diagrams. Run
+<code>python scripts/refresh_learning_catalogs.py</code> after editing lesson
+content to refresh measured counts and navigation while preserving progress.
 NumPy, SymPy, Matplotlib, and Jupyter support the initial example. SciPy is
 reserved for later numerical mathematics and is listed separately in
 [requirements-optional.txt](requirements-optional.txt).

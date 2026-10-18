@@ -6,6 +6,10 @@
 **Content status:** Written compact reference, with reproducible figures.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Trigonometry and vectors: rotation, phase, and mechanical projections](../../lessons/foundations/trigonometry-and-vectors.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use [algebra](../algebra/elementary-algebra.md), square roots, and the

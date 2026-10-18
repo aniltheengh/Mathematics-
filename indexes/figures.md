@@ -212,3 +212,151 @@ Exact initial-layer solutions for three small parameters
 ![Dimensionless concentration trajectories for a mixed tank at several reaction-to-flow ratios.](../assets/figures/advanced/tank-model.png)
 
 Dimensionless concentration trajectories for a mixed tank at several reaction-to-flow ratios.
+
+<!-- guided-lessons:start -->
+## Guided lesson diagrams
+
+### Proof workshop: turn a claim into a justified argument
+
+[Read the lesson](../lessons/foundations/proof-workshop.md)
+
+![A finite witness grid for y equals x plus one, with one marked witness in every row and no column covering every row.](../assets/figures/lessons-foundations/quantifier-witnesses.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/quantifier-witnesses.svg)
+
+![A five by five square partitioned into successive L-shaped layers containing one, three, five, seven, and nine cells.](../assets/figures/lessons-foundations/induction-square-layers.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/induction-square-layers.svg)
+
+### Algebra and functions: preserve meaning through every transformation
+
+[Read the lesson](../lessons/foundations/algebra-and-functions.md)
+
+![Quadratic two times x minus two squared minus three, with its vertex, exact roots, and the level five whose sublevel interval runs from zero to four.](../assets/figures/lessons-foundations/quadratic-levels.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/quadratic-levels.svg)
+
+![The nonnegative square branch and its square-root inverse reflected in the line y equals x, with exact points two comma four and four comma two.](../assets/figures/lessons-foundations/inverse-branches.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/inverse-branches.svg)
+
+### Trigonometry and vectors: rotation, phase, and mechanical projections
+
+[Read the lesson](../lessons/foundations/trigonometry-and-vectors.md)
+
+![Unit-circle radii at beta equals pi over four and alpha plus beta equals five pi over twelve, with a pi over six rotation marked between them.](../assets/figures/lessons-foundations/angle-addition.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/angle-addition.svg)
+
+![A six comma eight kilonewton force split into its parallel component along the four comma three guide direction and a perpendicular residual.](../assets/figures/lessons-foundations/mechanical-projection.png)
+
+[Scalable SVG](../assets/figures/lessons-foundations/mechanical-projection.svg)
+
+### Conics I: from a geometric constraint to an equation
+
+[Read the lesson](../lessons/geometry/conics-focus-to-equation.md)
+
+![The same focus and directrix with eccentricities one half, one, and three halves; each panel uses equal coordinate scales.](../assets/figures/lessons-geometry/eccentricity-family.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/eccentricity-family.svg)
+
+![A double cone cut by four planes; highlighted intersections are computed from the cone and plane equations, with the slope-one plane producing a parabola.](../assets/figures/lessons-geometry/cone-sections.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/cone-sections.svg)
+
+### Linear maps, bases, and least squares
+
+[Read the lesson](../lessons/analysis/linear-algebra-and-least-squares.md)
+
+![Three observations and their exact least-squares affine fit](../assets/figures/lessons-analysis/linear-regression.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/linear-regression.svg)
+
+![Condition numbers of a matrix with nearly dependent columns and its Gram matrix](../assets/figures/lessons-analysis/linear-conditioning.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/linear-conditioning.svg)
+
+### Calculus from limits to models
+
+[Read the lesson](../lessons/analysis/calculus-from-limits-to-models.md)
+
+![Secant lines approaching the tangent to the square function](../assets/figures/lessons-analysis/calculus-secants.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/calculus-secants.svg)
+
+![Actual exponential Taylor error and a uniform cubic upper bound](../assets/figures/lessons-analysis/calculus-taylor-error.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/calculus-taylor-error.svg)
+
+### Conics II: tangents, normals, curvature, and reflection
+
+[Read the lesson](../lessons/geometry/conics-tangents-and-reflection.md)
+
+![Parallel lines with two, one, and zero intersections with a fixed ellipse; the discriminant changes sign at the tangent.](../assets/figures/lessons-geometry/tangency-discriminant.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/tangency-discriminant.svg)
+
+![Vector constructions for ellipse and parabola reflection: the normal follows the gradient, and each outgoing arrow points to the stated focus.](../assets/figures/lessons-geometry/reflection-vectors.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/reflection-vectors.svg)
+
+### Conics III: classify every real quadratic without guessing
+
+[Read the lesson](../lessons/geometry/conics-matrices-and-classification.md)
+
+![A translated rotated ellipse, with orthonormal principal axes and foci, beside its diagonal equation in principal coordinates.](../assets/figures/lessons-geometry/principal-axes.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/principal-axes.svg)
+
+![Rank-one quadratic parts can yield a parabola, parallel lines, a repeated line, or an empty set depending on the linear term and level.](../assets/figures/lessons-geometry/rank-one-loci.png)
+
+[Scalable SVG](../assets/figures/lessons-geometry/rank-one-loci.svg)
+
+### Differential equations: models, modes, and stability
+
+[Read the lesson](../lessons/analysis/differential-equations-and-stability.md)
+
+![Normalized step responses for four damping ratios](../assets/figures/lessons-analysis/ode-step-response.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/ode-step-response.svg)
+
+![Heat profiles and their exact modal coefficient decay](../assets/figures/lessons-analysis/heat-mode-evolution.png)
+
+[Scalable SVG](../assets/figures/lessons-analysis/heat-mode-evolution.svg)
+
+### From base rates to evidence: a guided probability and inference lesson
+
+[Read the lesson](../lessons/advanced/probability-and-inference.md)
+
+![Posterior defect probability versus prevalence for sensitivity 0.9 and false-alarm probability 0.01; the points at prevalence 0.01 and 0.10 are marked.](../assets/figures/lessons-advanced/base-rates.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/base-rates.svg)
+
+![Binomial sampling laws for eight trials at probabilities one half and three quarters, beside the likelihood curve for six observed successes.](../assets/figures/lessons-advanced/binomial-evidence.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/binomial-evidence.svg)
+
+### Approximation and optimization: decide what an error means
+
+[Read the lesson](../lessons/advanced/approximation-and-optimization.md)
+
+![A sensitive linear-system response to small data perturbations, beside exact-root errors of bisection and Newton for square root of two.](../assets/figures/lessons-advanced/conditioning-and-roots.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/conditioning-and-roots.svg)
+
+![Quadratic gradient-descent trajectories for several step sizes, and a constrained quadratic with its KKT optimum and active boundary.](../assets/figures/lessons-advanced/descent-and-constraints.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/descent-and-constraints.svg)
+
+### Spaces and convergence: what does it mean to get close?
+
+[Read the lesson](../lessons/advanced/spaces-and-convergence.md)
+
+![Powers x to n develop a boundary layer near one, while rectangular spikes shrink in width with constant integral.](../assets/figures/lessons-advanced/function-convergence.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/function-convergence.svg)
+
+![The affine L2 projection of x squared and its residual, beside coordinate vectors whose nonzero entry moves to higher index while norm stays one.](../assets/figures/lessons-advanced/projection-and-weak-convergence.png)
+
+[Scalable SVG](../assets/figures/lessons-advanced/projection-and-weak-convergence.svg)
+<!-- guided-lessons:end -->

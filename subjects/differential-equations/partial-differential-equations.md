@@ -6,6 +6,10 @@
 **Content status:** Written compact reference chapter.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Differential equations: models, modes, and stability](../../lessons/analysis/differential-equations-and-stability.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Use [multivariable calculus](../calculus/multivariable-and-vector-calculus.md), [ODEs](ordinary-differential-equations.md), and Fourier expansions. Diagnostic: for $u(x,t)=e^{-t}\sin x$, $u_t=-u$ and $u_{xx}=-u$, so $u_t=u_{xx}$. Checking a PDE also requires checking the initial and boundary data; the same equation supports many different physical problems.

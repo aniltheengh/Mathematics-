@@ -6,6 +6,10 @@
 **Content status:** Written compact reference; global theorems are cited rather than fully proved.  
 **Learner mastery:** Unassessed.
 
+<!-- guided-lessons:start -->
+**Study in depth:** [Conics II: tangents, normals, curvature, and reflection](../../lessons/geometry/conics-tangents-and-reflection.md)
+<!-- guided-lessons:end -->
+
 ## Prerequisites
 
 Multivariable calculus, linear maps, dual vectors, differential equations and [topology](../topology/topology.md) are needed. Diagnostic: polar coordinates satisfy $x=r\cos\theta$, $y=r\sin\theta$; a displacement in the angular coordinate has length $r\,d\theta$, not $d\theta$ metres. Coordinate components and physical measurements must be distinguished.

@@ -7,6 +7,59 @@ and their limits. Source presence alone does not establish successful execution.
 
 ## Expanded edition on 2026-10-18
 
+### Guided lesson depth expansion on 2026-10-18
+
+The reference edition described below is now supplemented by **12 guided
+lessons** with **64 sequential stages**, **96 additional enumerated exercises
+and explained answers**, and **24 new PNG/SVG figure pairs**. Their measured
+source length is **22,893 whitespace-counted words**, including mathematical
+notation. The combined reference and lesson source has approximately **69,700
+words**, **236 practice problems**, and **55 distinct figure pairs**.
+The lesson route, direct chapter links, practice/proof indexes, figure gallery,
+publication TOC, and progress tracker all include the new material.
+
+Observed checks for this update:
+
+- All **66 Markdown/notebook pages** passed local path and heading-anchor
+  validation. The checker reported 899 local links before this record was
+  updated; it prints the current total when rerun.
+- All 28 reference chapters passed their existing coverage audit. A separate
+  lesson audit passed for twelve unique lessons, at least 1,800 source words
+  per lesson, four or more stages, eight matching numbered problems and
+  answers, two or more diagrams, and current catalog counts.
+- The five reference suites retained their **320 checks**. Four lesson suites
+  passed **297 additional checks**: 93 foundations mathematics/artifact/
+  structure checks, 45 exact conic checks, 78 analysis mathematical checks
+  plus 23 syntax/artifact/structure checks, and 58 exact advanced checks.
+  The combined **617** includes several types of automated checks and is
+  not a count of formal proofs.
+- All 24 new diagrams were generated and visually inspected. Equal-scale
+  geometry, exact highlighted data, endpoint conventions, ray directions,
+  units, and the cone's in-plane metric were checked. An existing gradient
+  diagram's arrow sampling was moved inward to keep arrowheads visible.
+- Independent manuscript reviews checked the twelve new lesson sequences.
+  They caught a normal-contact cubic's double-root case: a point can have
+  two distinct normal contacts as well as the generic one or three. The
+  corrected statement and its factorization are included and checked exactly.
+- A strict Jupyter Book build passed for **66 HTML pages**. The output
+  contained **6,179 rendered KaTeX instances and zero error nodes** when
+  inspected before this prose record was added. Repeated equations in
+  navigation/gallery pages contribute to that rendering count.
+- All 13 external reading destinations added in the lessons were opened.
+  Some publisher pages use dynamic content or legacy frames; their existence
+  does not establish that this project has reviewed every theorem in those
+  external books.
+- The progress tracker now contains 40 rows. Existing statuses, evidence,
+  and review dates were preserved; new lesson mastery is unassessed.
+
+The reference chapters remain concise across all 25 branches. These lessons
+provide deeper development of selected subjects, including three dedicated
+conic lessons; this update does not claim specialist-textbook depth in every
+advanced field. Symbolic checks cover encoded cases, while mathematical review
+and the written arguments support the general reasoning.
+
+### Reference edition before the lesson expansion
+
 The repository now contains **28 mathematics chapters across all 25 subject
 branches**, approximately **46,500 chapter words**, **140 enumerated practice
 problems with explained answers**, and **31 PNG/SVG figure pairs**. There are

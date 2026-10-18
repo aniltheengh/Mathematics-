@@ -25,6 +25,13 @@ applications, following their actual prerequisites.
 
 ## A concrete starting point
 
+For a sequence with longer derivations and guided practice, follow the
+[twelve guided lessons](../lessons/README.md). They connect proof, algebra,
+trigonometry, conics, linear algebra, calculus, differential equations,
+probability, numerical methods, and convergence. Each lesson has its own
+exercise set and explained answers. Study one stage at a time and record
+what you can reconstruct independently in the progress tracker.
+
 Read [the distance and midpoint example](../subjects/geometry/coordinate-geometry/cartesian-plane.md#distance-and-midpoint-example),
 then solve [CG-01](../exercises/geometry/coordinate-geometry.md#cg-01-distance-and-midpoint)
 with the answer closed. If easy, try the vertical-line and circle questions.
